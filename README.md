@@ -5,14 +5,10 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url] -->
 
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][instagram-shield]][linkedin-url]
+[![LinkedIn][twitter-shield]][linkedin-url]
+[![LinkedIn][github-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -74,10 +70,10 @@ This is an example of how to list things you need to use the software and how to
 - npm
   ```sh
   npm install npm@latest -g -->
-
+<!--
 ````
 
-<!-- ### Installation
+ ### Installation
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
@@ -190,6 +186,9 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=for-the-badge&logo=Instagram&colorB=555
+[twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=for-the-badge&logo=Twitter&colorB=555
+[github-shield]: https://img.shields.io/badge/-Github-black.svg?style=for-the-badge&logo=Github&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [instagram-url]: https://linkedin.com/in/othneildrew
 [twitter-url]: https://linkedin.com/in/othneildrew
