@@ -29,9 +29,9 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot1]]
-[![Product Name Screen Shot][product-screenshot2]]
-[![Product Name Screen Shot][product-screenshot3]]
+![Product Name Screen Shot][product-screenshot1]
+![Product Name Screen Shot][product-screenshot2]
+![Product Name Screen Shot][product-screenshot3]
 
 <!-- There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
@@ -194,7 +194,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [instagram-url]: http://instagram.com/wiz_codable/
 [twitter-url]: https://twitter.com/codablecode
 [github-url]: http://github.com/wiz-boc/
-[product-screenshot1]: images/mockup1.png
+[product-screenshot1]: images/mockup1.jpg
 [product-screenshot2]: images/mockup2.png
 [product-screenshot3]: images/mockup3.png
 [product-screenshot]: images/screenshot.png
