@@ -6,9 +6,9 @@
 [![Issues][issues-shield]][issues-url] -->
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![LinkedIn][instagram-shield]][linkedin-url]
-[![LinkedIn][twitter-shield]][linkedin-url]
-[![LinkedIn][github-shield]][linkedin-url]
+[![Instagram][instagram-shield]][instagram-url]
+[![Twitter][twitter-shield]][twitter-url]
+[![Github][github-shield]][github-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -48,7 +48,7 @@ Use the `BLANK_README.md` to get started.
 
 ### Built With
 
-This section should list the major frameworks/libraries used in this project.
+This section list the major frameworks/libraries used in this project.
 
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 - [Xcode](https://developer.apple.com/xcode/)
@@ -149,10 +149,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Email - kenroymgayle@gmail.com
-Twitter - [@codablecode](https://twitter.com/codablecode)
-Instagram - [@wiz_codable](http://instagram.com/wiz_codable/)
-Project Link: [https://github.com/wiz-boc/Africa](https://github.com/wiz-boc/Africa)
+- Email - kenroymgayle@gmail.com
+- Twitter - [@codablecode](https://twitter.com/codablecode)
+- Instagram - [@wiz_codable](http://instagram.com/wiz_codable/)
+- Project Link: [https://github.com/wiz-boc/Africa](https://github.com/wiz-boc/Africa)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -190,9 +190,9 @@ Use this space to list resources you find helpful and would like to give credit 
 [twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=for-the-badge&logo=Twitter&colorB=555
 [github-shield]: https://img.shields.io/badge/-Github-black.svg?style=for-the-badge&logo=Github&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[instagram-url]: https://linkedin.com/in/othneildrew
-[twitter-url]: https://linkedin.com/in/othneildrew
-[github-url]: https://linkedin.com/in/othneildrew
+[instagram-url]: http://instagram.com/wiz_codable/
+[twitter-url]: https://twitter.com/codablecode
+[github-url]: http://github.com/wiz-boc/
 [product-screenshot1]: images/screenshot.png
 [product-screenshot2]: images/screenshot.png
 [product-screenshot3]: images/screenshot.png
